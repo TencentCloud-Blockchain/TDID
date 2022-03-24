@@ -3,7 +3,7 @@
     "id": "@id",
     "type": "@type",
 
-    "tdidentity": "https://github.com/TencentCloud-Blockchain/TDID/context/vocabulary.md",
+    "tdidentity": "https://github.com/TencentCloud-Blockchain/TDID/blob/main/context/vocabulary.md",
 
     "Sm2p256v1": "tdidentity:Sm2p256v1"
   }
