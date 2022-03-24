@@ -1,0 +1,1 @@
+Tencent Distributed Identity Verifiable Credentials and Representations Vocabulary
